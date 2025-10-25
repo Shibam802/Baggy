@@ -1,10 +1,13 @@
 const mongoose= require('mongoose');
+const config=require("config");
+const dbqr= require("debug")("development:mongoose");
+
 mongoose.
-connect("mongodb://127.0.0.1:27017/Baggy")
+connect(`${config.get("MONGODB_URI")}/Baggy`)
 .then(function(){
-    console.log("connected");
+     dbqr("connected");
 })
 .catch(function(){
-    console.log(err);
+     dbqr(err);
 })
 module.exports= mongoose.connection;
