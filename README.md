@@ -23,5 +23,6 @@ Baggy is a **full-stack e-commerce web application** built with **MERN stack** (
 
 <img width="1890" height="974" alt="image" src="https://github.com/user-attachments/assets/552feaae-b1af-4889-b39d-bf68071fd5ac" />
 
+<img width="1912" height="988" alt="image" src="https://github.com/user-attachments/assets/f24efd87-4aca-407a-850d-39d2c8dbe714" />
 
 <img width="1892" height="987" alt="image" src="https://github.com/user-attachments/assets/1d3e27b2-a5c2-45b3-a496-eb43eaf571a9" />
